@@ -21,7 +21,7 @@ OpenPyXL → saving results in .xlsx files
 
 Tkinter → simple desktop GUI for the RTX tracker
 
-(see readme_rtx_amazon)
+(see read_me_rtx_amazon.txt)
 
 -----
 
@@ -38,7 +38,7 @@ Applies conditional formatting:
 
 🔴 Ratings below average → highlighted
 
-(see readme_scooters_cdiscount)
+(see read_me_scooters_cdiscount.txt)
 
 -----
 
